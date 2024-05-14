@@ -1,3 +1,15 @@
-![Снимок экрана 2024-05-14 135729](https://github.com/YuraGolinsky/ReactWeather/assets/134283897/32691237-07d2-4408-b444-916b0219b734)
-![Снимок экрана 2024-05-14 135721](https://github.com/YuraGolinsky/ReactWeather/assets/134283897/770203f6-6e34-44b1-a4dd-5df599156592)
-![Снимок экрана 2024-05-14 135714](https://github.com/YuraGolinsky/ReactWeather/assets/134283897/4657d6bb-66ca-4b8d-a1d9-5f2908f4ad60)
+![Снимок экрана 2024-05-14 135714](https://github.com/YuraGolinsky/ReactWeather/assets/134283897/807344cf-d015-4b79-bde6-4f98d7c5dbdc)
+
+
+
+
+![Снимок экрана 2024-05-14 135721](https://github.com/YuraGolinsky/ReactWeather/assets/134283897/475ee4f6-7ce6-4147-9c7b-0d61a32512ff)
+
+
+
+
+
+![Снимок экрана 2024-05-14 135729](https://github.com/YuraGolinsky/ReactWeather/assets/134283897/fddc4158-096c-40b7-b9ec-929ae2e8a40d)
+
+
+
